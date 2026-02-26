@@ -1,0 +1,5 @@
+{
+  "mongoURI": "mongodb://localhost:27017/bookAPI",
+  "jwtSecret": "d7721fdeaef06cb8e592860a7989345ecc375f43eb5c7b838b33a83c05eecabe",
+  "admin-signup-key": "dca796e02b35780e92f794583d3f378055d4cf0bb526929a669d267fb1cc6726"
+}
